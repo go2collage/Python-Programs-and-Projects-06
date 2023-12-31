@@ -7,6 +7,6 @@
 
 ## 
 
-### Video Link: (https://youtu.be/YMeuvpA8RNw?si=dvLnvwyo5F4aK9NA)
+### Video Link: (https://youtu.be/JgQqv62ep5o?si=57mSTT5HhsfAg8bv)
 
-### Blog Link: (https://www.go2collage.com/2021/09/python-program-project-05.html)
+### Blog Link: (https://www.go2collage.com/2021/09/python-program-project-06.html)
